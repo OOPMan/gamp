@@ -66,7 +66,51 @@ Construct the [Automa Reaction Deck](#the-automa-reaction-deck) using the follow
 
 Shuffle this deck before play begins.
 
-### Prepare the Automa Play Area
+### Prepare the Play Area
+<table>
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 70%">
+<col style="width: 10%">
+<tbody>
+<tr>
+<td>Graveyard</td>
+<td colspan="2">Memory</td>
+<td>Automa Reaction Deck</td>
+</tr>
+<tr>
+<td>Main Deck</td>
+<td>Automa Graveyard</td>
+<td>Automa Hand</td>
+<td>Face-up Material Deck</td>
+</tr>
+<tr>
+<td>Banished</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="4" align="center">Automa Field</td>
+</tr>
+<tr>
+<td colspan="4" align="center">Player Field</td>
+</tr>
+<td colspan="3"></td>
+<td>Banished</td>
+<tr>
+<td>Material Deck</td>
+<td colspan="2"></td>
+<td>Main Deck</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Memory</td>
+<td>Graveyard</td>
+</tr>
+<tr>
+<td colspan="4" align="center">Human Player</td>
+</tr>
+</tbody>
+</table>
 
 ## Automa Turn
 ### Wake Up Phase
