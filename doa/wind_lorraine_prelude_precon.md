@@ -45,11 +45,9 @@ Whenever an Ally controlled by the Automa receives enough Damage that it would D
 Deck. If a [Favorable Winds](https://index.gatcg.com/card/favorable-winds) is drawn, the Automa immediately plays this 
 card, ignoring the Reserve Cost. If any other card is drawn, Discard it to the [Automa Hand Graveyard](#the-automa-hand-graveyard).
 
-### Allies with Intercept
-
-### Glimpse
-
 ### Optional Effects/Abilities/Costs
+
+### Targeting
 
 ## Game Setup
 Game setup proceeds as normal with the following changes:
@@ -163,7 +161,7 @@ Starting with the **left-most** card in the [Automa Hand](#the-automa-hand), do 
    as well as any cards in the Graveyard with the **Floating Memory** keyword, do so and Activate the Card. The Automa
    will prefer to pay Reserve Costs using **Floating Memory**. When selecting cards to move to the Memory in order to
    pay a Reserve Cost, start with the **left-most face-down** card in the [Automa Hand](#the-automa-hand) and proceed right 
-   across the [Automa Hand](#the-automa-hand) until the Reserve Cost has been paid
+   across the [Automa Hand](#the-automa-hand) until the Reserve Cost has been paid.
 3. If the Automa is not capable of paying the Reserve Cost for the revealed Card, place it in [Automa Hand Graveyard](#the-automa-hand-graveyard)
    and draw a new card from the Main Deck to the [Automa Hand](#the-automa-hand) in the position that the revealed card
    resided in before being revealed. This newly drawn card is considered to be part of the [Automa Hand](#the-automa-hand)
@@ -174,10 +172,41 @@ Starting with the **left-most** card in the [Automa Hand](#the-automa-hand), do 
    these cards can be evaluated for Activation, but be sure not to accidentally check for Activation of any cards
    placed during Step 3 (Marking them temporarily with a token or shifting their position slightly is recommended)
 ##### Example 
+
 #### Activate Abilities
+Examine each Card in the Automa`s Field with Abilities that may be Activated and determine whether:
+
+1. The Automa can pay any costs required to Activate the Ability
+2. The Automa can designate a valid target for the Ability
+3. Activating the Ability would be of benefit to the Automa
+
+If the Ability passes all the aforementioned checks, Activate and resolve the Ability.
+
 ##### Example
+
 #### Attack with Champion
 ##### Example
+
 #### Attack with Allies
 ##### Example
+
 ### End Phase
+
+## Mechanics
+The follow section details specific game mechanics that need to be handled differently for the Automa
+
+### Intercept
+The Automa will not Attack with Allies that have the Intercept if the Human Player has any Allies on the Field. 
+
+During the Human Players turn, if the Human Player Attacks the Automa`s Champion and the Automa has an Awake Ally with
+Intercept, it will always attempt to intercept the Attack with that Ally. 
+
+The Automa will never use Intercept to redirect Attacks directed at other Allies.
+
+### Glimpse
+The Automa skips resolving Glimpse entirely. As a result, [Scry the Skies](https://index.gatcg.com/card/scry-the-skies)
+will simply draw the top card of the Main Deck to the Automa`s Memory.
+
+## Decklist
+Below is listed a reference copy of the decklist for the Wind Lorraine Pre-Constructed deck from Dawn of Ashes Prelude,
+in case you threw out the box and don't want to look it up elsewhere:
