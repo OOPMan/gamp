@@ -45,8 +45,12 @@ Whenever an Ally controlled by the Automa receives enough Damage that it would D
 Deck. If a [Favorable Winds](https://index.gatcg.com/card/favorable-winds) is drawn, the Automa immediately plays this 
 card, ignoring the Reserve Cost. If any other card is drawn, Discard it to the [Automa Hand Graveyard](#the-automa-hand-graveyard).
 
-### Optional Effects/Abilities/Costs
-TODO
+### Optional Abilities/Costs
+Where possible the Automa will **ALWAYS** pay Optional Costs and/or Activate Optional Abilities **as soon as possible**
+as long as doing so is of benefit to the Automa. 
+
+Unlike the other rules, this one is a bit more vague and open to interpretation. Ultimately it's up to the Player to
+decide what is of benefit to the Automa.
 
 ### Targeting
 #### Actions
@@ -54,7 +58,7 @@ TODO
 #### Abilities
 TODO
 #### Attacks
-TODO
+The Automas *ALWAYS* Attacks the Human Player's Champion
 
 ## Game Setup
 Game setup proceeds as normal with the following changes:
