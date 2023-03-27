@@ -1,6 +1,14 @@
 # Dawn of Ashes Prelude: Wind Lorraine Pre-Constructed Deck Automa
 
 ## Contents
+1. [Introduction](#introduction)
+2. [Core Concepts](#core-concepts)
+3. [Game Setup](#game-setup)
+4. [Automa Turn](#automa-turn)
+5. [Mechanics](#mechanics)
+6. [FAQ](#faq)
+7. [Decklist](#decklist)
+8. [Credits](#credits)
 
 ## Introduction
 Welcome to the rulebook for the Automa for the Wind Lorraine Pre-Constructed Deck from the Dawn of Ashes Prelude set.
@@ -53,10 +61,11 @@ Unlike the other rules, this one is a bit more vague and open to interpretation.
 decide what is of benefit to the Automa.
 
 ### Targeting
-#### Actions
-TODO
-#### Abilities
-TODO
+#### Actions and Abilities
+Providing a fixed guide on targeting of Actions and Abilities for the Automa is a little tricky, and thus it is
+recommended that the Player select the Target(s) in a fashion that would make the most sense if the Automa were a
+Human Player.
+
 #### Attacks
 The Automas *ALWAYS* Attacks the Human Player's Champion
 
@@ -191,9 +200,6 @@ Starting with the **left-most** card in the [Automa Hand](#the-automa-hand), do 
    these cards can be evaluated for Activation, but be sure not to accidentally check for Activation of any cards
    placed during Step 2.1 (Marking them temporarily with a token or shifting their position slightly is recommended)
 
-##### Example 
-TODO
-
 #### Activate Abilities
 Starting with the **left-most** card in the Automa's Field, do the following:
 
@@ -203,9 +209,6 @@ Starting with the **left-most** card in the Automa's Field, do the following:
    3. Activating the Ability would be of benefit to the Automa
 2. If the Ability passes all the aforementioned checks, Activate and resolve the Ability
 3. Repeat this process with the next **left-most** card in the Automa's Field
-
-##### Example
-TODO
 
 #### Attack with Champion
 If the Automa's Champion is capable of doing so, it Attacks the Human Player's Champion.
@@ -232,6 +235,9 @@ The Automa will never use Intercept to redirect Attacks directed at other Allies
 ### Glimpse
 The Automa skips resolving Glimpse entirely. As a result, [Scry the Skies](https://index.gatcg.com/card/scry-the-skies)
 will simply draw the top card of the Main Deck to the Automa's Memory.
+
+## FAQ
+None yet...
 
 ## Decklist
 Below is listed a reference copy of the decklist for the Wind Lorraine Pre-Constructed deck from Dawn of Ashes Prelude,
@@ -277,3 +283,9 @@ in case you threw out the box and don't want to look it up elsewhere:
 * 2 x [Hurricane Sweep](https://index.gatcg.com/card/hurricane-sweep)
 * 3 x [Wind Cutter](https://index.gatcg.com/card/wind-cutter)
 * 4 x [Spirit Blade: Ghost Strike](https://index.gatcg.com/card/spirit-blade-ghost-strike)
+
+## Credits
+Credits
+* [OOPMan](https://github.com/OOPMan) (I'm not sure crediting myself is okay, but whatever :-)
+* [Michael D. Kelley](https://boardgamegeek.com/user/GameMasterX0) of [One Stop Co-Op Shop](https://www.youtube.com/@OneStopCoopShop)
+  for his excellent [Exceed Solo Variant](https://boardgamegeek.com/thread/2586108/solo-variant-video) from which I borrowed some ideas
